@@ -1,0 +1,15 @@
+
+_
+java:S1192""IDefine a constant instead of duplicating this literal "lastName" 7 times.(á¸Èæ
+]
+java:S1192;"GDefine a constant instead of duplicating this literal "amount" 5 times.(áŸÞÇ
+`
+java:S1192!"JDefine a constant instead of duplicating this literal "firstName" 7 times.(°–†¢
+A	java:S106‚"+Replace this use of System.out by a logger.(‡üøã
+B
+java:S1452ž"&Remove usage of generic wildcard type.(ó¦å¨ýÿÿÿÿ
+A	java:S106½"+Replace this use of System.out by a logger.(‘¼¡è
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”
